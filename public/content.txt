@@ -1,0 +1,31 @@
+Hero
+------------------------------
+Title: A taste of local flavours
+by : Wildan Wari
+
+Subtitle: Posuere amet, sed vitae condimentum accumsan aliquam et, aliquam. Tellus in fusce vel gravida lobortis diam dis ut. Bibendum senectus urna, in ultricies sed lorem natoque. Risus pharetra
+
+Menu
+------------------------------
+Title 1: Stilton and pancetta penne
+Title 2: Chorizo and avocado spaghetti
+Title 3: Crayfish and black pepper toastie
+Title 4: Orange and banana cookies
+
+About
+------------------------------
+Title: Let's Talk About W'Food
+Sub 1: Mauris nam et ipsum ipsum in. Risus nullam in sit mi est justo at fringilla. Consequat ac fringilla quis enim, sit ipsum. Laoreet eget metus morbi convallis gravida elementum facilisis. Neque enim quis fusce amet. Pellentesque netus vel eu  
+Sub 2: posuere ultrices facilisi. Senectus velit lobortis velit arcu varius lectus mattis. Dictum aenean duis aliquet Tortor purus egestas urna scelerisque vel ornare lectus ultricies. Nisi, eu ut ultricies enim enim amet porttitor. Volutpat ac tellus volutpat eget volutpat orci enim, ut a. Turpis adipiscing eleifend dignissim viverra euismod ultrices.
+
+Footer
+------------------------------
+1. Blog
+2. New Item
+3. Social Media
+
+Text:
+Sit pellentesque neque egestas quis dolor, sit
+Arcu et tincidunt dictum nunc ut nisi, dolor euismod
+Tempor, volutpat nulla sed posuere orci ac diam integer
+Ultrices consectetur orci ultrices viverra mauris laoreet tincidunt at
