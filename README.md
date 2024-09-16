@@ -3,7 +3,7 @@
 
 ## RestaurantJS-NextJS-Website
 
-RestaurantJS App is a NextJS 14 Static Frontend Website, using React.js, Javascript, TailwindCSS, Framer-Motion, TailwindCSS-Animate, Date-fns, React-Leaflet, Lucide-React, React-Day-Picker, React-Scroll, React-Icons, React-Responsive features and deployed on Vercel.
+RestaurantJS App is a NextJS 14 Static Frontend Website, using React.js, Javascript, TailwindCSS, Framer-Motion, TailwindCSS-Animate, Date-fns, React-Leaflet, Lucide-React, React-Day-Picker, React-Scroll, React-Icons, React-Responsive features and deploy on Vercel.
 
 **Note: This static website is built using Javascript, I have developed the same static website using Typescript. (https://github.com/arnobt78/RestaurantTS-NextJS-Website)**
 
